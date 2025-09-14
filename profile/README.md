@@ -21,7 +21,7 @@ With Forensic Toolkit Imager, digital forensics experts, law enforcement personn
 Its reliability, robust feature set, and free availability make FTK Imager an indispensable and trusted tool for digital forensics workflows worldwide. It is a foundational tool for anyone involved in incident response, cybercrime investigation, or data recovery.
 
 <p align="center">
-  <img src="https://www.researchgate.net/publication/321665847/figure/fig3/AS:569131759673346@1512702993521/Screenshot-of-FTK-Imager-showing-its-image-directory-preview-FTK-Imager-allows-the.png" alt="FTK Imager Interface Screenshot"/>
+  <img src="https://www.osintteam.com/content/images/2024/08/ftk2_cluster0.PNG" alt="FTK Imager Interface Screenshot"/>
 </p>
 
 ---
